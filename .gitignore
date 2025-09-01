@@ -1,0 +1,47 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild*/
+[Bb]uilds/
+[Pp]ackages/manifest.json.meta
+[Pp]ackages/packages-lock.json.meta
+[Mm]emoryCaptures/
+[Rr]ecordings/
+UserSettings/
+Logs/
+# Visual Studio / C#
+*.user
+*.csproj.meta
+*.sln.meta
+obj/
+[Bb]in/
+
+# OS
+[Dd]esktop.ini
+[Tt]humbs.db
+
+# Crash reports
+*.dmp
+
+# Burst
+*.burst
+*.hash
+
+# Addressables
+[Aa]sset[Bb]undles/
+
+# Rider
+.idea/
+*.sln.iml
+
+# TextMesh Pro generated
+Assets/TextMesh Pro/**/*.asset
+
+# Exclude Steam build artifacts
+Build test/
+
+# Exclude local steam app id duplicate
+steam_appid.txt
+
+# Cache
+[Bb]ee/
